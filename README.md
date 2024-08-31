@@ -1,4 +1,6 @@
 # GotchuGaucho
+#### *MLH - Best Domain Name Award from GoDaddy Registry*
+***Link**: https://devpost.com/software/sbhacks-s7m9ef*
 
 ## Overview
 GotchuGaucho is a vibrant, user-friendly platform designed to unify the Gaucho community through party culture at UCSB. Whether you're looking to host a memorable event or seeking the next exciting party to attend, GotchuGaucho is your one-stop destination for all party-related activities in the UCSB area.
